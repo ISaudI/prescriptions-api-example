@@ -10,7 +10,6 @@ module.exports = new Nuclear.Store({
   },
 
   initialize() {
-    this.on(actionTypes.SWITCH_VIEW, switchView);
   },
 
 });

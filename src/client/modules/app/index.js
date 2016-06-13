@@ -7,3 +7,5 @@ Reactor.registerStores({
 })
 
 exports.actions = require('./actions');
+exports.getters = require('./getters');
+exports.enums = require('./enums');
