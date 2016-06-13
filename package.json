@@ -1,0 +1,20 @@
+{
+  "name": "onsite-build-test-master",
+  "version": "1.0.0",
+  "description": "We have included a dataset that contains an array of patients and their prescriptions. Create an API that serves this data to a UI that displays the information for a single patient at a time. Use whatever tools and technologies that you want.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^13.4.1",
+    "inert": "^4.0.0",
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}

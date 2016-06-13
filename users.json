@@ -1,0 +1,36 @@
+[{
+	"id": 0,
+	"first_name": "Jimmie",
+	"last_name": "Marks",
+	"email": "evans.leffler@johns.co",
+	"phone": "615.741.5255 x905",
+	"date_of_birth": "1999-12-10T06:12:09.572+00:00"
+}, {
+	"id": 1,
+	"first_name": "Melyna",
+	"last_name": "Cummerata",
+	"email": "barney@stiedemann.name",
+	"phone": "145.313.1246",
+	"date_of_birth": "1970-04-17T20:35:10.379+00:00"
+}, {
+	"id": 2,
+	"first_name": "Elnora",
+	"last_name": "Stanton",
+	"email": "ludie.ebert@zieme.biz",
+	"phone": "582.011.5180",
+	"date_of_birth": "1959-11-25T07:06:34.515+00:00"
+}, {
+	"id": 3,
+	"first_name": "Flossie",
+	"last_name": "Lubowitz",
+	"email": "danial@collins.biz",
+	"phone": "387-915-3469",
+	"date_of_birth": "1991-07-09T09:42:22.466+00:00"
+}, {
+	"id": 4,
+	"first_name": "Aglae",
+	"last_name": "Swaniawski",
+	"email": "polly.ebert@mitchellmedhurst.io",
+	"phone": "(776) 916-8310 x2807",
+	"date_of_birth": "1969-09-26T19:42:22.550+00:00"
+}]
