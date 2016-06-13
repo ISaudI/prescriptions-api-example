@@ -64,6 +64,14 @@ server.register(require('inert'), (err) => {
 		}
 	});
 
+	server.route({
+		method: 'GET',
+    path: '/dist/main.js',
+		handler: function (request, reply) {
+      reply.file(path.join(__dirname, '../dist/main.js'));
+		}
+	});
+
 	server.start((err) => {
 		if (err) {
 			throw err;
